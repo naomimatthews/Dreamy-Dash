@@ -33,6 +33,13 @@ I am actively working on this project to enhance its features, optimize performa
 
 I plan to release this game on the App Store once it reaches a satisfying level of quality and polish. Stay tuned for updates and follow the progress of this project.
 
+## Gameplay Preview
+
+Check out the gameplay video below to get a glimpse of the exciting Endless Runner in action:
+
+https://github.com/naomimatthews/Dreamy-Dash/assets/67332327/87ab20cb-fb6b-45f5-9c56-55bfd465dc39
+
+
 ## Installation and Testing
 
 To install and test the Endless Runner game on your iOS device, follow these steps:
